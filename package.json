@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-getting-started",
+  "version": "1.0.0",
+  "description": "\"node js for beginners\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenius/nodejs-getting-started.git"
+  },
+  "author": "zenius lama (zenius2050@protonmail.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zenius/nodejs-getting-started/issues"
+  },
+  "homepage": "https://github.com/zenius/nodejs-getting-started#readme"
+}

@@ -1,0 +1,7 @@
+1. Go to the folder where file exists.
+2. Run the following commands. 
+
+node hello-world.js
+
+
+
