@@ -1,0 +1,13 @@
+1. Go to the folder location where file exists.
+2. Run the following commands in your terminal.
+
+node setTimeInterval.js
+
+// output
+Hello zenius
+Hello zenius
+Hello zenius
+... and so on
+
+
+
